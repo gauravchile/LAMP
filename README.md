@@ -37,10 +37,14 @@ chmod +x lamp_install.sh
 4. After installation:
 
 	Open a browser  http://<server-ip>/  Apache default page.
+	
 	Visit  http://<server-ip>/phptest.php  PHP info page.
 
 5. Learning Outcomes
 	Automating package management with apt, yum, dnf.
+	
 	Service management with systemctl.
+	
 	Database automation with MariaDB SQL scripts.
+	
 	Writing portable & reusable Bash scripts.
