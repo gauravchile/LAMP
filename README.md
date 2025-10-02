@@ -9,7 +9,9 @@
 
 # Project Structure
  lamp_installer/
+ 
   lamp_install.sh   # Main installation script
+  
   README.md         # Project documentation
 
 # Prerequisites
