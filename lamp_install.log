@@ -1,0 +1,18 @@
+Detected package manager: apt-get
+=== Installing Apache ===
+Apache already installed.
+✅ Apache started.
+=== Installing MariaDB ===
+MariaDB already installed.
+✅ MariaDB started.
+
+✅ Database webserver and user gaurav created.
+=== Installing PHP ===
+PHP already installed.
+✅ PHP version: PHP 8.3.6 (cli) (built: Jul 14 2025 18:30:55) (NTS)
+✅ PHP test file created at /var/www/html/phptest.php
+=================================================================
+ ✅ LAMP installation complete!
+ - Test Apache: http://<server-ip>/
+ - Test PHP:    http://<server-ip>/phptest.php
+=================================================================
