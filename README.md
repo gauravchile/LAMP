@@ -23,14 +23,19 @@ root or sudo privileges.
 Internet access for package installation.
 
  Installation & Usage
+
 1. Clone this repository:
+
 git clone https://github.com/<your-username>/lamp_installer.git
+
 cd lamp_installer
 
 2. Make script executable:
+
 chmod +x lamp_install.sh
 
 3. Run the installer:
+
 ./lamp_install.sh
  Verification
 
@@ -41,6 +46,7 @@ chmod +x lamp_install.sh
 	Visit  http://<server-ip>/phptest.php  PHP info page.
 
 5. Learning Outcomes
+	
 	Automating package management with apt, yum, dnf.
 	
 	Service management with systemctl.
