@@ -1,7 +1,7 @@
 # Features
 	Auto-detects Linux distribution (Debian/Ubuntu or CentOS/RHEL).
 	Installs & configures Apache/HTTPD.
-        Installs & configures MariaDB (MySQL alternative).
+    Installs & configures MariaDB (MySQL alternative).
 	Creates a database, user, and grants privileges.
 	Installs PHP with required modules.
 	Creates a phptest.php file to verify PHP setup.
