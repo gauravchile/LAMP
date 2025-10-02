@@ -37,7 +37,6 @@ chmod +x lamp_install.sh
 3. Run the installer:
 
 ./lamp_install.sh
- Verification
 
 4. After installation:
 
