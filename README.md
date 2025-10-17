@@ -21,9 +21,11 @@ Automate your **LAMP stack setup** on Linux servers with **one click**! This scr
 ## 📁 Project Structure
 
 ```
-├─ lamp_script.sh # Main installation script
+LAMP/
+│
+├─ lamp_install.sh # Main installation script
 ├─ README.md # Project documentation
-└─ lamp_install.log # Installation log file   
+└─ lamp_install.log # Installation log file  
 ```
 
 ---
