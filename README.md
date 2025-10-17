@@ -21,7 +21,7 @@ Automate your **LAMP stack setup** on Linux servers with **one click**! This scr
 ## 📁 Project Structure
 
 ```
-├─ lamp_install.sh # Main installation script
+├─ lamp_script.sh # Main installation script
 ├─ README.md # Project documentation
 └─ lamp_install.log # Installation log file   
 ```
@@ -48,13 +48,13 @@ cd LAMP
 ### 2️⃣ Make the script executable
 
 ```bash
-chmod +x lamp_install.sh
+chmod +x lamp_script.sh
 ```
 
 ### 3️⃣ Run the installer
 
 ```bash
-./lamp_install.sh
+./lamp_script.sh
 ```
 
 ### 4️⃣ Verify installation
