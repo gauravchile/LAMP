@@ -41,8 +41,8 @@ Automate your **LAMP stack setup** on Linux servers with **one click**! This scr
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/lamp_installer.git
-cd lamp_installer
+git clone https://github.com/gauravchile/LAMP.git
+cd LAMP
 ```
 
 ### 2️⃣ Make the script executable
